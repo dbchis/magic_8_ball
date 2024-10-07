@@ -9,7 +9,7 @@ The objective of this challenge is to solidify what you've learn't in the Dicee 
 
 We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button.
 
-![](images/Screenshot 2024-10-07 201547.png)
+<img height="150" src="images/Screenshot 2024-10-07 201547.png" width="100"/>
 
 
 >Author: Dang Ba Chi
